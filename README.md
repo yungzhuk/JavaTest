@@ -1,4 +1,4 @@
-# JavaTest
+# My Awesome Project
 
 ### My new Project
 
