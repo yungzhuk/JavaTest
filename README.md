@@ -1,4 +1,4 @@
-# JavaTest
+# My Super Project
 
 ### My new Project
 
